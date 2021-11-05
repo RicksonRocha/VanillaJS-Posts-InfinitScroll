@@ -1,3 +1,11 @@
 <h1>Posts e Infinit Scroll</h1>
-<p>Projeto desenvolvido com Javascript "puro", o VanillaJS, HTML5 e CSS3</p>
-<div>Intregração com <a href="https://jsonplaceholder.typicode.com/">API</a> para listagem de posts</div>
+<h2>O que é esse projeto?</h2>
+<p>Um simples blog web com listagem de posts para treinar minhas habilidades com Front-end.</p>
+<p>Intregração com a API do <a href="https://jsonplaceholder.typicode.com/">JsonPlaceHolder</a>.</p>
+<p>Scroll infinito implementado com javascript</p>
+
+<ul>
+  <li>JavaScript</li>
+  <li>HTML5</li>
+  <>CSS3</>
+</ul>
