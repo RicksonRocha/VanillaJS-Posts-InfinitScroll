@@ -4,8 +4,9 @@
 <p>Intregração com a API do <a href="https://jsonplaceholder.typicode.com/">JsonPlaceHolder</a>.</p>
 <p>Scroll infinito implementado com javascript</p>
 
+<h2>Tecnologias usadas:</h2>
 <ul>
   <li>JavaScript</li>
   <li>HTML5</li>
-  <>CSS3</>
+  <li>CSS3</li>
 </ul>
