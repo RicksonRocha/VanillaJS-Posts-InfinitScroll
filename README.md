@@ -1,2 +1,2 @@
 # Posts e Infinit Scroll
-## Intregração com API para listagem de posts
+<div>Intregração com <a href="https://jsonplaceholder.typicode.com/">API</a> para listagem de posts</div>
